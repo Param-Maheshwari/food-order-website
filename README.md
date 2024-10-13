@@ -10,7 +10,8 @@ can login and check the queue.
 **2. User Order Page :-**
 
 From here User can order the delicious food.
-![2](https://github.com/user-attachments/assets/dd4d53d4-cf29-46c9-be73-c3edfb827e21)
+![order](https://github.com/user-attachments/assets/f6af50f9-2dd9-4af8-9fe7-2f37ecc7dd9f)
+
 
 **3. Order Queue Page :-**
 
